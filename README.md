@@ -44,3 +44,5 @@ seguinte e indicam as operações a executar.
 | __s__ | Altera a pontuação (_score_) de um jogo. |
 | __g__ | Encontra as equipas que venceram mais jogos.
 | __x__ | Termina o programa. |
+
+### Ver https://github.com/pedromigueladao/IAED1920/tree/master/projectos para mais informação.
