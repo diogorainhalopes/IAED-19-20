@@ -1,6 +1,6 @@
 # IAED-19-20
 
-## Enunciado do Projecto 1 - IAED 2019/20
+## Enunciado do Projecto 1 - IAED 2019/20 Grade: 16.81
 
 O objectivo deste projeto é o desenvolvimento, em linguagem C, de um sistema de logística. 
 A interacção com o programa deverá ocorrer através de um conjunto de linhas compostas por uma letra (comando) 
@@ -24,7 +24,7 @@ Os possíveis comandos são listados na Tabela seguinte e indicam as operações
 | __x__ | termina o programa |
 
 
-## Enunciado do Projecto 2 - IAED 2019/20
+## Enunciado do Projecto 2 - IAED 2019/20 Grade: 17.74
 
 O objectivo deste projeto é o desenvolvimento, em linguagem C, de um sistema de
 gestão de uma base de dados de jogos de futebol amigáveis.
